@@ -1,5 +1,5 @@
 # Quick-Start-Pack
 
-This is Quick Start Pack For Satrtup Psd To html(udpated with bootstrap v5)
+All in one startup Quickstart pack for PSD to HTML, PSD to WORDPRESS, figma to HTML, figma to Wordpress (v5)
 
 
